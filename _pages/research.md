@@ -12,4 +12,3 @@ author_profile: true
 
 - **The 2023 Canadian Foreign Buyer Ban**: Price Dynamics in Big vs. Small Cities  
   *Presented at Munk Symposium 2024*
-

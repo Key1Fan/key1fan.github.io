@@ -3,10 +3,13 @@ email: keyifan@hks.harvard.edu
 description: "Academic website of Keyi Fan"
 baseurl: ""
 url: "https://key1fan.github.io"
-theme: minimal-mistakes-jekyll
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+markdown: kramdown
+highlighter: rouge
 
 defaults:
   - scope:
