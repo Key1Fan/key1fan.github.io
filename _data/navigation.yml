@@ -1,6 +1,5 @@
-- title: About
-  url: /about/
-- title: Research
-  url: /research/
-- title: CV
-  url: /cv/
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/

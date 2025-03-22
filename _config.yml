@@ -1,6 +1,19 @@
-title: Keyi Fan
+title: "Keyi Fan"
 email: keyifan@hks.harvard.edu
-description: >
-  Pre-doctoral Fellow | MPP @ Harvard Kennedy School
+description: "Academic website of Keyi Fan"
 baseurl: ""
 url: "https://key1fan.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+repository: "Key1Fan/keyifan.github.io"
